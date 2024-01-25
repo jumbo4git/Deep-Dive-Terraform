@@ -28,4 +28,3 @@ variable "public_subnets" {
     public-2 = "10.42.11.0/24"
   }
 }
-
